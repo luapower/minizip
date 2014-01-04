@@ -1,6 +1,7 @@
 ---
-project: minizip
-tagline: minizip ffi binding
+project:     minizip
+tagline:     minizip ffi binding
+category:    Compression
 ---
 
 v1.0 | minizip 1.1 | LuaJIT 2
