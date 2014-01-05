@@ -4,8 +4,6 @@ tagline:     minizip ffi binding
 category:    Compression
 ---
 
-v1.0 | minizip 1.1 | LuaJIT 2
-
 ## `local zip = require'minizip'`
 
 Supports creating, reading, writing, appending, and listing a ZIP file. Advanced use of this module requires an understanding of the [ZIP file format].
