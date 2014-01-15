@@ -1,7 +1,6 @@
 ---
 project:     minizip
 tagline:     minizip ffi binding
-category:    Compression
 ---
 
 ## `local zip = require'minizip'`
