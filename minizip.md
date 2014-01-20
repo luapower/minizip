@@ -1,6 +1,6 @@
 ---
-project:     minizip
-tagline:     minizip ffi binding
+project: minizip
+tagline: ZIP reader & writer
 ---
 
 ## `local zip = require'minizip'`
