@@ -7,7 +7,7 @@ tagline: ZIP reader & writer
 
 Supports creating, reading, writing, appending, and listing a ZIP file. Advanced use of this module requires an understanding of the [ZIP file format].
 
-## Features:
+## Features
 
   * encryption and decryption with a password
   * reading and writing of large (> 4G) files
