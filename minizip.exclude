@@ -1,0 +1,12 @@
+*
+!/bin/
+!/csrc/
+!/bin/mingw32/
+!/bin/linux32/
+!/media/
+
+!/minizip*
+!/bin/mingw32/minizip*
+!/bin/linux32/libminizip*
+!/csrc/minizip/
+!/csrc/minizip/**
