@@ -1,12 +1,26 @@
 *
 !/bin/
-!/csrc/
 !/bin/mingw32/
+!/bin/mingw64/
 !/bin/linux32/
+!/bin/linux64/
+!/bin/osx32/
+!/bin/osx64/
+!/bin/mingw32/clib/
+!/bin/mingw64/clib/
+!/bin/linux32/clib/
+!/bin/linux64/clib/
+!/bin/osx32/clib/
+!/bin/osx64/clib/
+!/csrc/
 !/media/
 
 !/minizip*
 !/bin/mingw32/minizip*
+!/bin/mingw64/minizip*
 !/bin/linux32/libminizip*
+!/bin/linux64/libminizip*
+!/bin/osx32/libminizip*
+!/bin/osx64/libminizip*
 !/csrc/minizip/
 !/csrc/minizip/**
