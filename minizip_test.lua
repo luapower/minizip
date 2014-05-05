@@ -1,6 +1,6 @@
 local zip = require'minizip'
 local glue = require'glue'
-local pp = require'pp'.pp
+local pp = require'pp'
 
 local filename = 'test.zip'
 local password = 'doh'
