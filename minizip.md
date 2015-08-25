@@ -1,5 +1,4 @@
 ---
-project: minizip
 tagline: ZIP reader & writer
 ---
 
